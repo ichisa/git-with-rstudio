@@ -7,3 +7,9 @@ This is where we write info about the chapter.
 ![](figures/R-LadiesGlobal.png)
 
 </p>
+
+# Next Events
+
+# Past Events
+
+[2020-12-12]()
